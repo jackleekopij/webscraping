@@ -1,0 +1,85 @@
+WHY should I do this project?
+WHAT is this project (major goals)?
+WHEN will this project be done?
+HOW will the goals be achieved?
+
+WHY should I do this project?
+Outcomes of the project (Technical):
+    Gain skills in web scraping.
+    Write object oriented code.
+    Further exposure to document stores MongoDB.
+    Text mining methods (Word2Vec).
+    Critical writing - documenting code and analysis.
+
+Outcomes (non-Technical):
+    Kudos in online community.
+    Insights into future skills to learn.
+    Insights into organisational hiring/skill patterns.
+
+
+WHAT will this project entail?
+The aim of this project is to extract current job data for 'technical' jobs which require a background in
+either mathematics/statistics or computer science. Further there are hypothesis' that I would like to prove.
+
+    1. Professional organisations are increasingly valuing STEM skills.
+    2. Python, R and C++ are the most sought after computer languages.
+    3. The Spark, Hadoop, SQL, and no SQL skills are highly regarded.
+    4. Specific industries that require these technical skills all value the same set => a DS can move any where/any field
+
+There will be two parts to this project:
+    1. Acquiring the data from webscraping.
+    2. Analysing the data using text mining techniques.
+
+    1. Acquiring the data from webscraping.
+        -Start with scraping the McKinsey website.
+        -Create list of websites to scrape data from.
+        -Create data storage for scraped data.
+        -Loop list of 'scrape-able' websites through the scraping code.
+        -Create a cron job to run the scrape on a weekly basis.
+        -Ensure duplicates of data aren't created.
+        -
+    2. Analysing the data using text mining techniques.
+        -Research SVDs further.
+        -Understand the true details of SVDs
+        -Explore word embedding corpus.
+        -Create clusters of job types.
+
+
+WHEN will the goals be achieved?
+
+
+HOW can we prove the hypotheses'?
+
+    1. Professional organisations are increasingly valuing STEM skills.
+        Collect data over time. This will require to take longitudinal data snapshots of company hiring processes overtime.
+        Select bins o
+
+    2. Python, R and C++ are the most sought after computer languages.
+        Collect data on relevant jobs from set of industry.
+        For each industry, analyse text for skill requirements.
+        Apply appropriate binning i.e. ensure jobs are somewhat consistant.
+
+    3. The Spark, Hadoop, SQL, and no SQL skills are highly regarded.
+        Counts of how often these terms are included in these job titles
+
+
+    4. Specific industries that require these technical skills all value the same set => a DS can move any where/any field
+        Collect data, similar, to step 1. Then cross-sectionally analyse the skills required in each of the jobs posting.
+        Analyse to see which industries have similar requirements for the above.
+        Create metric to highlight which industry has the most technical requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
