@@ -46,13 +46,12 @@ There will be two parts to this project:
 
 
 WHEN will the goals be achieved?
-
+    Currently the data is being collected. A first complete batch of data should be collected by mid-November. 
 
 HOW can we prove the hypotheses'?
 
     1. Professional organisations are increasingly valuing STEM skills.
         Collect data over time. This will require to take longitudinal data snapshots of company hiring processes overtime.
-        Select bins o
 
     2. Python, R and C++ are the most sought after computer languages.
         Collect data on relevant jobs from set of industry.
@@ -61,8 +60,7 @@ HOW can we prove the hypotheses'?
 
     3. The Spark, Hadoop, SQL, and no SQL skills are highly regarded.
         Counts of how often these terms are included in these job titles
-
-
+        
     4. Specific industries that require these technical skills all value the same set => a DS can move any where/any field
         Collect data, similar, to step 1. Then cross-sectionally analyse the skills required in each of the jobs posting.
         Analyse to see which industries have similar requirements for the above.
